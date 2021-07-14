@@ -1,4 +1,4 @@
-# 採用技術
+# ENG-001:Adopted front end technology.md
 
 Date: 7/14
 
@@ -8,7 +8,8 @@ proposed
 
 ## Context
 
-
+クライアントがいるわけでもなく給料が発生するわけでもないので、モチベーションの維持のため検討時点でモダンな技術を採用したい。
+その中でリーダーが独断と偏見と好みで技術を採用した。
 
 ## Decision
 
@@ -24,11 +25,8 @@ proposed
 - [GitMoji](https://gitmoji.dev/) - Commit メッセージに絵文字を使うもの。
 
 ## Other Options (任意)
-
-他に検討した選択肢
-なぜそれらを選ばなかったかの説明
+- [Chakra　UI](https://chakra-ui.com/) - React用の UI コンポーネントフレームワーク
+  - TailwindCSSを前のプロジェクトで使用していたので、新しくChakra　UIを学習するコストを掛けるよりTailwindCSSを使用する方が良いと判断した。
 
 ## Consequences
 
-この変更によって便利になること、不便になること
-この変更によって生じるリスク、対処する必要があること
