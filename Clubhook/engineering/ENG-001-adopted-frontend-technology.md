@@ -1,6 +1,6 @@
 # ENG-001:Adopted front end technology.md
 
-Date: 7/14（ここのDateはDRを導入しようというのが決まり文書を書いた日。採用技術を考え始めたのは実際は2021年5月頃。）
+Date: 7/14（ここのDateはDRの文書を書いた日。採用技術を考え始めたのは実際は2021年5月頃。）
 
 ## Status
 
