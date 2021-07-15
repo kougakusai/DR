@@ -33,7 +33,7 @@ proposed
 - [GitMoji](https://gitmoji.dev/) - Commit メッセージに絵文字を追加。
   - 見やすそうだったので導入。使いやすければバックエンドでも導入する可能性あり。
 
-## Other Options (任意)
+## Other Options
 - [Chakra　UI](https://chakra-ui.com/) - React用の UI コンポーネントフレームワーク
   - TailwindCSSを前のプロジェクトで使用していたので、新しくChakra　UIを学習するコストを掛けるよりTailwindCSSを使用する方が良いと判断した。
 - CSS Modules - Reactのスタイリング方法の一つ
